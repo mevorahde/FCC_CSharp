@@ -33,6 +33,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "moreIfStatements", "moreIfS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "buildingABetterCalculator", "buildingABetterCalculator\buildingABetterCalculator.csproj", "{CC1EDE89-8A03-46E5-8375-CB4862EDB50B}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "switchStatements", "switchStatements\switchStatements.csproj", "{233D0888-5424-4A93-AD82-D392A0BEFC4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "whileLoops", "whileLoops\whileLoops.csproj", "{628ECC7A-0CB3-4F43-B4C8-53398A6FB182}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +103,14 @@ Global
 		{CC1EDE89-8A03-46E5-8375-CB4862EDB50B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CC1EDE89-8A03-46E5-8375-CB4862EDB50B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CC1EDE89-8A03-46E5-8375-CB4862EDB50B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{233D0888-5424-4A93-AD82-D392A0BEFC4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{233D0888-5424-4A93-AD82-D392A0BEFC4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{233D0888-5424-4A93-AD82-D392A0BEFC4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{233D0888-5424-4A93-AD82-D392A0BEFC4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{628ECC7A-0CB3-4F43-B4C8-53398A6FB182}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{628ECC7A-0CB3-4F43-B4C8-53398A6FB182}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{628ECC7A-0CB3-4F43-B4C8-53398A6FB182}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{628ECC7A-0CB3-4F43-B4C8-53398A6FB182}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
